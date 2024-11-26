@@ -28,7 +28,7 @@ Colcon выполняет сборки из исходного кода. По у
 ![image](https://i.postimg.cc/fyLTMRVH/2024-11-26-085504.png)
 
 
-# Добавьте несколько источников
+# Добавьте несколько источников
 Давайте клонируем репозиторий примеров в директорию рабочей области:src
 
 ```git clone https://github.com/ros2/examples src/examples -b rolling```
